@@ -1,4 +1,4 @@
-# real-estate-price-prediction
+## real-estate-price-prediction
 
 ## Description
 
@@ -17,15 +17,15 @@ predicted price with accurcy of 70%.
 
 The project has been coded in Python 3.10.2 Flask==2.2.2 
 
-##Future Development
+## Future Development
 
 Deploy a Web Application with Docker and Render
 
-##Contributors
+## Contributors
 
 AbuSharekh Maysa
 
-##Personal situation
+## Personal situation
 
 Junior Data Scientist at BeCode in Ghent.
 
